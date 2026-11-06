@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "707759886015",
+    "project_id": "tp7-lucas",
+    "storage_bucket": "tp7-lucas.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707759886015:android:2c917325b145950d9dc00a",
+        "android_client_info": {
+          "package_name": "br.unisanta.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs9bkzqxUp5iZHYm6nLIl4f0v_PX1g0gE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
